@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\backend project\\Backend-app\\Backend\\Backend.csproj": {}
+    "C:\\Users\\ifeol\\Desktop\\Projects\\Shopping-Cart\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\backend project\\Backend-app\\Backend\\Backend.csproj": {
+    "C:\\Users\\ifeol\\Desktop\\Projects\\Shopping-Cart\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\backend project\\Backend-app\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\ifeol\\Desktop\\Projects\\Shopping-Cart\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\USER\\Documents\\backend project\\Backend-app\\Backend\\Backend.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\backend project\\Backend-app\\Backend\\obj\\",
+        "projectPath": "C:\\Users\\ifeol\\Desktop\\Projects\\Shopping-Cart\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\ifeol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ifeol\\Desktop\\Projects\\Shopping-Cart\\Backend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ifeol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -104,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
